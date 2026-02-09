@@ -802,8 +802,8 @@ enum TelemetrySensorType {
   BH1750 = 45;
 
   /*
-  * STH21 Temperature and R. Humidity sensor
-  */
+   * STH21 Temperature and R. Humidity sensor
+   */
   SHT21 = 46;
 }
 
