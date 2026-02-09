@@ -810,6 +810,11 @@ enum TelemetrySensorType {
    * STH21 Temperature and R. Humidity sensor
    */
   SHT21 = 47;
+
+  /*
+   * Sensirion STC31 CO2 sensor
+   */
+  STC31 = 48;
 }
 
 /*
