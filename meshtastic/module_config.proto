@@ -347,7 +347,6 @@ message ModuleConfig {
 
     /*
      * Enable dropping of unknown/undecryptable packets per rate_limit_window_secs
-
      */
     bool drop_unknown_enabled = 10;
 
